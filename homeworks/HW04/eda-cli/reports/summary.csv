@@ -1,0 +1,16 @@
+name,dtype,non_null,missing,missing_share,unique,is_numeric,min,max,mean,std
+user_id,int64,9,0,0.0,9,True,1001.0,1009.0,1005.0,2.7386127875258306
+country,object,9,0,0.0,4,False,,,,
+city,object,9,0,0.0,7,False,,,,
+device,object,9,0,0.0,3,False,,,,
+channel,object,9,0,0.0,4,False,,,,
+sessions_last_30d,int64,9,0,0.0,9,True,3.0,34.0,14.11111111111111,10.105004260816079
+avg_session_duration_min,float64,9,0,0.0,9,True,3.0,15.2,7.877777777777776,3.9584649100938667
+pages_per_session,float64,9,0,0.0,9,True,2.2,7.1,4.51111111111111,1.5218774954348693
+purchases_last_30d,int64,9,0,0.0,5,True,0.0,4.0,1.4444444444444444,1.3333333333333333
+revenue_last_30d,float64,9,0,0.0,7,True,0.0,6200.0,1955.611111111111,2121.4048084019964
+churned,int64,9,0,0.0,2,True,0.0,1.0,0.3333333333333333,0.5
+signup_year,int64,9,0,0.0,5,True,2019.0,2023.0,2021.0,1.224744871391589
+plan,object,9,0,0.0,3,False,,,,
+n_support_tickets,int64,9,0,0.0,1,True,1.0,1.0,1.0,0.0
+is_test,object,9,0,0.0,1,False,,,,
