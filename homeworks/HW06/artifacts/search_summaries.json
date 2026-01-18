@@ -1,0 +1,11 @@
+{
+  "RandomForestClassifier": {
+    "best_params": {
+      "max_depth": 16,
+      "max_features": 16,
+      "min_samples_leaf": 1
+    },
+    "best_cv_score": 0.8456223799720981,
+    "cv_folds": 5
+  }
+}

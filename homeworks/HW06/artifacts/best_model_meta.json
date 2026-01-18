@@ -1,0 +1,11 @@
+{
+  "model_name": "RandomForestClassifier",
+  "test_accuracy": 0.8850666666666667,
+  "test_f1_macro": 0.8574843191439975,
+  "test_roc_auc_macro": 0.9510205846965146,
+  "parameters": {
+    "max_depth": 16,
+    "max_features": 16,
+    "min_samples_leaf": 1
+  }
+}
