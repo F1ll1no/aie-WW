@@ -41,7 +41,7 @@
    - Подбор: перебор нескольких значений alpha, выбор по accuracy на test
    - Назначение: базовая модель для сравнения древовидных подходов
 
-4. **RandomForestClassifier** ⭐ **[ЛУЧШАЯ МОДЕЛЬ]**
+4. **RandomForestClassifier**  **[ЛУЧШАЯ МОДЕЛЬ]**
    - GridSearch с параметрами:
      - `max_features`: [1, 6, 11, 16]
      - `min_samples_leaf`: [1, 11, 21, ..., 91]
