@@ -56,8 +56,7 @@ logs/
 *.bak
 *.old
 
-# Игнорировать сырые данные EMNIST
-homeworks/HW08-HW09/data/EMNIST/raw/*.ubyte
-homeworks/HW08-HW09/data/EMNIST/raw/*.gz
-homeworks/HW08-HW09/data/EMNIST/raw/*.zip
-homeworks/HW08-HW09/data/EMNIST/raw/
+homeworks/HW08-09/data/EMNIST/raw/*.ubyte
+homeworks/HW08-09/data/EMNIST/raw/*.gz
+homeworks/HW08-09/data/EMNIST/raw/*.zip
+homeworks/HW08-09/data/EMNIST/raw/*
